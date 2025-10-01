@@ -1,4 +1,4 @@
-baseURL: "http://localhost:1313/"
+baseURL: "https://vxpert.github.io/contentautomation/"
 title: ExampleSite
 theme: PaperMod
 
